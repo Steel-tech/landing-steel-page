@@ -1,0 +1,17 @@
+# Steel Construction Automation Guide - Placeholder
+
+This is a placeholder for the Steel Construction Automation Guide PDF.
+
+The actual PDF should contain:
+- AI-powered estimation techniques
+- Project management automation workflows
+- Data synchronization best practices
+- Training and implementation strategies
+- ROI calculations and case studies
+
+To replace this placeholder:
+1. Create the actual PDF guide
+2. Save it as: public/steel-automation-guide.pdf
+3. Remove this placeholder file
+
+The download endpoint at /api/guide/download is ready to serve the PDF once it's available.
